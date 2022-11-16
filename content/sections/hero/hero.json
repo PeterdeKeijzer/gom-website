@@ -1,7 +1,7 @@
 {
   "intro": "Welcome to the GOM landing page",
   "heroPhoto": {
-    "src": "https://i.imgur.com/MGvmpdY.png",
+    "src": "../../images/logo_bts.png",
     "alt": "My Photo"
   },
   "image": {

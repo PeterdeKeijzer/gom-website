@@ -16,18 +16,16 @@
     "logo": { "text": "GOM" },
     "navigation": {
       "header": [
-        { "label": "About", "url": "/#about" },
-        { "label": "Blog", "url": "/blog" },
-        { "label": "Features", "url": "/#features" },
-        { "label": "Github", "url": "/#github" }
+        { "label": "Home", "url": "/" },
+        { "label": "Privacy Policy", "url": "/privacy" },
+        { "label": "Blockchain", "url": "/" }
       ],
       "ctaButton": {
         "openNewTab": true,
-        "label": "Resume",
+        "label": "Download Game",
         "url": "/resume.pdf"
       },
       "footer": [
-        { "label": "Privacy", "url": "/privacy" },
         { "label": "Imprint", "url": "/imprint" }
       ]
     },

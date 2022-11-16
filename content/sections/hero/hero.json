@@ -1,22 +1,22 @@
 {
-  "intro": "Hej",
+  "intro": "Welcome to the GOM landing page",
   "heroPhoto": {
-    "src": "../../images/lego-dummy.png",
+    "src": "../../images/logo_bts.png",
     "alt": "My Photo"
   },
   "image": {
-    "src": "../../images/waving-hand.png",
-    "alt": "Waving Hand Emoji"
+    "src": "",
+    "alt": ""
   },
-  "title": "I'm a Gatsby Starter",
+  "title": "",
   "subtitle": {
-    "prefix": "I do all the setup ",
-    "highlight": "for you",
-    "suffix": "."
+    "prefix": "",
+    "highlight": "",
+    "suffix": ""
   },
-  "description": "A Gatsby Starter Project to easily get started with Portfolio Minimal theme.",
+  "description": "More content will be added later. In the meantime you can press the Download Game button or read the privacy policy.",
   "socialProfiles": {
-    "from": ["LinkedIn", "Medium", "Github", "Mail"],
+    "from": [],
     "showIcons": false
   }
 }

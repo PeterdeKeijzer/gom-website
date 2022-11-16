@@ -1,7 +1,7 @@
 import React from "react";
 import {
   AboutSection,
-  ArticlesSection,
+  // ArticlesSection,
   ContactSection,
   HeroSection,
   InterestsSection,
@@ -13,7 +13,7 @@ import {
 export default function IndexPage() {
   return (
     <>
-      <Seo title="Gatsby Starter for Portfolio Minimal" />
+      <Seo title="GOM Landing Page" />
       <Page useSplashScreenAnimation>
         <HeroSection sectionId="hero" />
         {/* <ArticlesSection sectionId="articles" heading="Latest Articles" sources={['Medium']} />

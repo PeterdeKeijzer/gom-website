@@ -1,5 +1,5 @@
 {
-  "intro": "Welcome to the GOM Landing Page",
+  "intro": "About GOM-Project",
   "heroPhoto": {
     "src": "../../images/logo_bts.png",
     "alt": "My Photo"
@@ -8,7 +8,7 @@
     "src": "",
     "alt": ""
   },
-  "title": "About GOM-Project",
+  "title": "",
   "subtitle": {
     "prefix": "",
     "highlight": "",

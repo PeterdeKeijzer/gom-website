@@ -74,3 +74,15 @@ If you make a request, we have one month to respond to you. If you would like to
 Another part of our priority is adding protection for children while using the internet. We encourage parents and guardians to observe, participate in, and/or monitor and guide their online activity.
 
 GOM does not knowingly collect any Personal Identifiable Information from children under the age of 13. If you think that your child provided this kind of information on our website, we strongly encourage you to contact us immediately and we will do our best efforts to promptly remove such information from our records.
+
+## 10. Contact Us
+
+Please contact our Support teams if you have questions or concerns about our services (such as game-related issues, trouble accessing your game account, bugs or other technical problems, payment matters, or content and entitlement issues). Please email your questions to:
+
+[contact@blacktower.jp](mailto:contact@blacktower.jp)
+
+If you want to learn more about our privacy practices or this policy, please email your questions to:
+
+[privacy@blacktower.jp](mailto:privacy@blacktower.jp)
+
+You can also contact us via postal mail at Black Tower Studios located at #304 Nihon Sougou Jisho Otsuka BLDG, 1-13-17 Kitaotsuka, Toshima-ku, Tokyo, Japan

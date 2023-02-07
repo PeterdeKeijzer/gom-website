@@ -21,9 +21,7 @@
         { "label": "Blockchain", "url": "/" }
       ],
       "ctaButton": {
-        "openNewTab": true,
-        "label": "Download Game",
-        "url": "/resume.pdf"
+
       },
       "footer": [
         { "label": "Privacy Policy", "url": "/privacy" }
